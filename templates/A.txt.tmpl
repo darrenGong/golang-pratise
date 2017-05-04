@@ -1,0 +1,12 @@
+{{define "A.txt" -}}
+
+{{.Count}} items are made of {{.Material}}
+Protocol: {{.Protocol}}
+
+{{range .ArrayData -}}
+    The array data, value: {{.}}, Protocol: {{protocol $.Protocol}}
+{{end}}
+
+{{template "B.txt" .Protocol -}}
+
+{{end}}

@@ -1,0 +1,13 @@
+100 items are made of wool
+Protocol: 1
+
+The array data, value: 3, Protocol: tcp
+The array data, value: 4, Protocol: tcp
+The array data, value: 5, Protocol: tcp
+The array data, value: 6, Protocol: tcp
+The array data, value: 7, Protocol: tcp
+The array data, value: 8, Protocol: tcp
+
+
+Receive params from A tmpl. Protocol: 1
+
